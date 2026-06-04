@@ -5,7 +5,7 @@
 </h2>
  
 <h2 align="center">
-    ỨNG DỤNG ĐẾM VÀ THEO DÕI CỪU SỬ DỤNG AI
+    HỆ THỐNG BẦU CỬ PHI TẬP TRUNG BẰNG BLOCKCHAIN
 </h2>
 
 <div align="center">
