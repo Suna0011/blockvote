@@ -1,3 +1,10 @@
+
+
+
+<img width="439" height="777" alt="image" src="https://github.com/user-attachments/assets/7e13c504-32ba-4519-b009-ea40469e8d28" />
+
+
+
 # BlockVote — Ứng dụng bầu cử Blockchain
 
 DApp bầu cử phi tập trung trên Ethereum, xây dựng với React + TypeScript + Solidity.
