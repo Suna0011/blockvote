@@ -25,9 +25,8 @@
 
 
 <p align="center">
-<img width="504" height="784" alt="image" src="https://github.com/user-attachments/assets/a310eed4-2a53-4a66-9a9e-5aff4e55ec77" />
+  <img width="100%" alt="image" src="https://github.com/user-attachments/assets/927036a0-9d71-41c2-804a-37def89f6a8a" />
 </p>
-
 
 
 # BlockVote — Ứng dụng bầu cử Blockchain
